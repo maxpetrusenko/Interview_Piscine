@@ -1,0 +1,2 @@
+O(n!) time(people*tables);
+O(n) space(tables);

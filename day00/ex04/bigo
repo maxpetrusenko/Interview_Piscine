@@ -1,0 +1,5 @@
+O(n) - in best case scenarion, O(n*m) - worst case, in case of false positives.
+O(1) - Space complexity
+
+n-len of string
+m- average len of word

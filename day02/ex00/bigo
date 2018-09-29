@@ -1,0 +1,2 @@
+O(n*n) - in time, where n - number of groups(instead of each number)
+O(n) - in space, n - number of groups

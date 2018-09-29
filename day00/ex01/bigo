@@ -1,0 +1,3 @@
+O(n^2) in worst case if the partition always picks greatest element in array.
+O(nlog(n)) average and best case(using middle element).
+O(1) space, no any extra space is used.
